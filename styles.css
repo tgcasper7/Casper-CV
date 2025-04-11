@@ -1,0 +1,29 @@
+/* TAG SELECTORS */
+
+body {
+     background-color: #EAF6F6;
+}
+
+h1 {color: #66BFBF;}
+
+h3 {color: #66BFBF;}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: purple;
+    border-width: 5px;
+    width: 3%;
+}
+
+img:hover {background-color: purple}
+
+/* CLASS SELECTORS */
+
+.aka {color: purple;}
+.background {color: red;}
+.me {background-color: black;}
+
+/* HEADING SELECTORS */
+
+#heading {color: red}
